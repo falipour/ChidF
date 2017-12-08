@@ -44,6 +44,16 @@
     color: #ddd
 }
 
+.sidebar-nav li button{
+    display: block;
+    text-decoration: none;
+    color: #ddd
+}
+
 .sidebar-nav li a:hover{
     background: #801554;
+}
+
+.sidebar-nav li button:hover{
+    background-color: #801554 !important;
 }
