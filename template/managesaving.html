@@ -71,19 +71,19 @@
     <!--sidebar-->
     <div id="sidebar-wrapper">
         <ul class="sidebar-nav" style="font-family: 'B Mitra'; font-size: 20px; text-align: right;">
-            <li><a href="#" style="text-:10px"> &nbsp &nbsp ثبت مددجو &nbsp &nbsp </a></li>
-            <li><a href="#"> &nbsp &nbsp تعلیق مددجو &nbsp &nbsp </a></li>
-            <li><a href="#"> &nbsp &nbsp به روزرسانی موفقیتها و دستآوردها&nbsp &nbsp </a></li>
-            <li><a href="#"> &nbsp &nbsp به روزرسانی وضعیت مددجو &nbsp &nbsp </a></li>
-            <li><a href="#"> &nbsp &nbsp ثبت گزارش &nbsp &nbsp </a></li>
-            <li><a href="#"> &nbsp &nbsp تغییر نیاز مددجو &nbsp &nbsp </a></li>
-            <li><a href="#"> &nbsp &nbsp بررسی درخواستها &nbsp &nbsp </a></li>
+            <li><a href="madadju-register.html" style="text-:10px"> &nbsp &nbsp ثبت مددجو &nbsp &nbsp </a></li>
+            <li><a href="taaligh.html"> &nbsp &nbsp تعلیق مددجو &nbsp &nbsp </a></li>
+            <li><a href="success.html"> &nbsp &nbsp به روزرسانی موفقیتها و دستآوردها&nbsp &nbsp </a></li>
+            <li><a href="edit-madadju.html"> &nbsp &nbsp به روزرسانی وضعیت مددجو &nbsp &nbsp </a></li>
+            <li><a href="report.html"> &nbsp &nbsp ثبت گزارش &nbsp &nbsp </a></li>
+            <li><a href="editneed.html"> &nbsp &nbsp تغییر نیاز مددجو &nbsp &nbsp </a></li>
+            <li><a href="seerequests.html"> &nbsp &nbsp بررسی درخواستها &nbsp &nbsp </a></li>
             <li><a href="#"> &nbsp &nbsp جست و جوی مددجو &nbsp &nbsp </a></li>
-            <li><a href="#"> &nbsp &nbsp افزودن نیاز فوری &nbsp &nbsp </a></li>
-            <li><a href="#"> &nbsp &nbsp مدیریت پس انداز مددجو &nbsp &nbsp </a></li>
-            <li><a href="#"> &nbsp &nbsp ارسال رسید &nbsp &nbsp </a></li>
-            <li><a href="#"> &nbsp &nbsp صندوق پیامها &nbsp &nbsp </a></li>
-            <li><a href="#"> &nbsp &nbsp خروج &nbsp &nbsp </a></li>
+            <li><a href="instantneed.html"> &nbsp &nbsp افزودن نیاز فوری &nbsp &nbsp </a></li>
+            <li><a href="managesaving.html"> &nbsp &nbsp مدیریت پس انداز مددجو &nbsp &nbsp </a></li>
+            <li><a href="receipt.html"> &nbsp &nbsp ارسال رسید &nbsp &nbsp </a></li>
+            <li><a href="seemsg.html"> &nbsp &nbsp صندوق پیامها &nbsp &nbsp </a></li>
+            <li><a href="Home.html"> &nbsp &nbsp خروج &nbsp &nbsp </a></li>
         </ul>
     </div>
 
@@ -121,7 +121,7 @@
 
                                     <!-- body (form) -->
                                     <div class="modal-body">
-                                        <form role="form">
+                                        <form id="form1" role="form">
                                             <p style="text-align: right;">
                                             <label style="text-align: right;">موجودی فعلی</label>
                                             <br>
@@ -135,8 +135,8 @@
                                                 <label for="sel1" style="display:block; text-align:right;">نوع تراکنش
                                                     با</label>
                                                 <select dir="rtl" class="form-control text-right" id="sell">
-                                                    <option class="text-right">برداشت</option>
-                                                    <option onselect="">واریز</option>
+                                                    <option class="text-right" value="val1">برداشت</option>
+                                                    <option value="val2">واریز</option>
                                                 </select>
                                             </div>
 
@@ -159,6 +159,23 @@
             e.preventDefault();
             $("#wrapper").toggleClass("menuDisplayed")
         });
+        function f() {
+            if(document.getElementById('sel1').value == "val2") {
+                console.log("hi");
+            window.alert("hi");
+            var myDiv = document.getElementById("form1");
+            var array = ["تجارت","ملت","جاری"];
+            var selectList = document.createElement("select");
+            selectList.id = "mySelect";
+            myDiv.appendChild(selectList);
+            for (var i = 0; i < array.length; i++) {
+            var option = document.createElement("option");
+            option.value = array[i];
+            option.text = array[i];
+            selectList.appendChild(option);
+             }
+            }
+         }
     </script>
 </div>
 
