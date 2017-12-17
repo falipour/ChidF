@@ -2,18 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c1616b1e-c866-470e-8a51-f82b37ec3de4" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/Admin/Admin_Chart.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/Admin/Admin_Contact.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/Admin/Admin_Goals.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/Admin/Admin_History.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/Admin/Admin_Home.html" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/Admin/Admin.html" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/template/Chart.html" afterPath="$PROJECT_DIR$/template/Viewer/Chart.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/template/Contact.html" afterPath="$PROJECT_DIR$/template/Viewer/Contact.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/template/Goals.html" afterPath="$PROJECT_DIR$/template/Viewer/Goals.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/template/History.html" afterPath="$PROJECT_DIR$/template/Viewer/History.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/template/Home.html" afterPath="$PROJECT_DIR$/template/Viewer/Home.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/template/Admin/Admin_Chart.html" afterPath="$PROJECT_DIR$/template/Admin/Admin_Chart.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/template/Admin/Admin_Contact.html" afterPath="$PROJECT_DIR$/template/Admin/Admin_Contact.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/template/Admin/Admin_Goals.html" afterPath="$PROJECT_DIR$/template/Admin/Admin_Goals.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/template/Admin/Admin_History.html" afterPath="$PROJECT_DIR$/template/Admin/Admin_History.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/template/Admin/Admin_Home.html" afterPath="$PROJECT_DIR$/template/Admin/Admin_Home.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/template/Admin/Admin_Madadju_Report.html" afterPath="$PROJECT_DIR$/template/Admin/Admin_Madadju_Report.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/template/Admin/Admin_delete.html" afterPath="$PROJECT_DIR$/template/Admin/Admin_delete.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/template/Admin/Admin_edit.html" afterPath="$PROJECT_DIR$/template/Admin/Admin_edit.html" />
@@ -22,35 +15,6 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/template/Admin/Foundation_Report.html" afterPath="$PROJECT_DIR$/template/Admin/Foundation_Report.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/template/Admin/Hamyar_Register.html" afterPath="$PROJECT_DIR$/template/Admin/Hamyar_Register.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/template/Admin/Madadkar_Register.html" afterPath="$PROJECT_DIR$/template/Admin/Madadkar_Register.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/template/Hamyar/Chart-Hamyar.html" afterPath="$PROJECT_DIR$/template/Hamyar/Chart-Hamyar.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/template/Hamyar/Contact-Hamyar.html" afterPath="$PROJECT_DIR$/template/Hamyar/Contact-Hamyar.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/template/Hamyar/Goals-Hamyar.html" afterPath="$PROJECT_DIR$/template/Hamyar/Goals-Hamyar.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/template/Hamyar/Hamyar.html" afterPath="$PROJECT_DIR$/template/Hamyar/Hamyar.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/template/Hamyar/History-Hamyar.html" afterPath="$PROJECT_DIR$/template/Hamyar/History-Hamyar.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/template/Hamyar/Home-Hamyar.html" afterPath="$PROJECT_DIR$/template/Hamyar/Home-Hamyar.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/template/Hamyar/enseraf.html" afterPath="$PROJECT_DIR$/template/Hamyar/enseraf.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/template/Hamyar/entekhab-madadjoo.html" afterPath="$PROJECT_DIR$/template/Hamyar/entekhab-madadjoo.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/template/Hamyar/hadayaye-gheirenaghdi.html" afterPath="$PROJECT_DIR$/template/Hamyar/hadayaye-gheirenaghdi.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/template/Hamyar/letters.html" afterPath="$PROJECT_DIR$/template/Hamyar/letters.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/template/Hamyar/madadjoo-list.html" afterPath="$PROJECT_DIR$/template/Hamyar/madadjoo-list.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/template/Hamyar/madadjooContact.html" afterPath="$PROJECT_DIR$/template/Hamyar/madadjooContact.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/template/Hamyar/messageSending.html" afterPath="$PROJECT_DIR$/template/Hamyar/messageSending.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/template/Hamyar/pay.html" afterPath="$PROJECT_DIR$/template/Hamyar/pay.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/template/Hamyar/receipt.html" afterPath="$PROJECT_DIR$/template/Hamyar/receipt.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/template/Hamyar/search.html" afterPath="$PROJECT_DIR$/template/Hamyar/search.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/template/Hamyar/vojoohepardakhti.html" afterPath="$PROJECT_DIR$/template/Hamyar/vojoohepardakhti.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/template/edit-madadju.html" afterPath="$PROJECT_DIR$/template/edit-madadju.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/template/editneed.html" afterPath="$PROJECT_DIR$/template/editneed.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/template/instantneed.html" afterPath="$PROJECT_DIR$/template/instantneed.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/template/madadju-register.html" afterPath="$PROJECT_DIR$/template/madadju-register.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/template/madadkar.html" afterPath="$PROJECT_DIR$/template/madadkar.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/template/managesaving.html" afterPath="$PROJECT_DIR$/template/managesaving.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/template/receipt.html" afterPath="$PROJECT_DIR$/template/receipt.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/template/report.html" afterPath="$PROJECT_DIR$/template/report.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/template/seemsg.html" afterPath="$PROJECT_DIR$/template/seemsg.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/template/seerequests.html" afterPath="$PROJECT_DIR$/template/seerequests.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/template/success.html" afterPath="$PROJECT_DIR$/template/success.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/template/taaligh.html" afterPath="$PROJECT_DIR$/template/taaligh.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -60,7 +24,154 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="letters.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/template/Hamyar/letters.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="457">
+              <caret line="88" column="85" lean-forward="true" selection-start-line="88" selection-start-column="12" selection-end-line="88" selection-end-column="85" />
+              <folding>
+                <element signature="n#style#0;n#span#0;n#td#0;n#tr#0;n#thead#0;n#table#0;n#center#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#td#1;n#tr#0;n#thead#0;n#table#0;n#center#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Admin_Goals.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/template/Admin/Admin_Goals.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="413">
+              <caret line="84" column="85" lean-forward="false" selection-start-line="84" selection-start-column="85" selection-end-line="84" selection-end-column="85" />
+              <folding>
+                <element signature="n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#style#0;n#a#0;n#li#0;n#ul#0;n#span#0;n#div#1;n#div#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#li#1;n#ul#0;n#span#0;n#div#1;n#div#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#ul#0;n#li#1;n#ul#0;n#span#0;n#div#1;n#div#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#li#2;n#ul#0;n#span#0;n#div#1;n#div#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#li#3;n#ul#0;n#span#0;n#div#1;n#div#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#ul#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Admin_History.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/template/Admin/Admin_History.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="84" column="85" lean-forward="false" selection-start-line="84" selection-start-column="85" selection-end-line="84" selection-end-column="85" />
+              <folding>
+                <element signature="n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#style#0;n#a#0;n#li#0;n#ul#0;n#span#0;n#div#1;n#div#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#li#1;n#ul#0;n#span#0;n#div#1;n#div#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#ul#0;n#li#1;n#ul#0;n#span#0;n#div#1;n#div#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#li#2;n#ul#0;n#span#0;n#div#1;n#div#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#li#3;n#ul#0;n#span#0;n#div#1;n#div#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#ul#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Admin_Home.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/template/Admin/Admin_Home.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="84" column="85" lean-forward="false" selection-start-line="84" selection-start-column="85" selection-end-line="84" selection-end-column="85" />
+              <folding>
+                <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#style#0;n#div#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#button#0;n#div#0;n#div#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#1;n#button#0;n#div#0;n#div#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#2;n#button#0;n#div#0;n#div#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#li#0;n#ul#0;n#div#1;n#div#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#li#0;n#ul#0;n#span#0;n#div#1;n#div#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#li#1;n#ul#0;n#span#0;n#div#1;n#div#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#ul#0;n#li#1;n#ul#0;n#span#0;n#div#1;n#div#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#li#2;n#ul#0;n#span#0;n#div#1;n#div#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#li#3;n#ul#0;n#span#0;n#div#1;n#div#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#ul#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#script#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Admin_Madadju_Report.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/template/Admin/Admin_Madadju_Report.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="371">
+              <caret line="83" column="85" lean-forward="false" selection-start-line="83" selection-start-column="85" selection-end-line="83" selection-end-column="85" />
+              <folding>
+                <element signature="n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Foundation_Kefalat.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/template/Admin/Foundation_Kefalat.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="529">
+              <caret line="83" column="85" lean-forward="false" selection-start-line="83" selection-start-column="85" selection-end-line="83" selection-end-column="85" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Foundation_Pardakht.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/template/Admin/Foundation_Pardakht.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="546">
+              <caret line="83" column="85" lean-forward="false" selection-start-line="83" selection-start-column="85" selection-end-line="83" selection-end-column="85" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Foundation_Report.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/template/Admin/Foundation_Report.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="435">
+              <caret line="83" column="85" lean-forward="false" selection-start-line="83" selection-start-column="85" selection-end-line="83" selection-end-column="85" />
+              <folding>
+                <element signature="n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Hamyar_Register.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/template/Admin/Hamyar_Register.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="333">
+              <caret line="83" column="85" lean-forward="false" selection-start-line="83" selection-start-column="85" selection-end-line="83" selection-end-column="85" />
+              <folding>
+                <element signature="n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Madadkar_Register.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/template/Admin/Madadkar_Register.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="317">
+              <caret line="83" column="85" lean-forward="false" selection-start-line="83" selection-start-column="85" selection-end-line="83" selection-end-column="85" />
+              <folding>
+                <element signature="n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -123,15 +234,15 @@
         <option value="$PROJECT_DIR$/Viewer/Goals.html" />
         <option value="$PROJECT_DIR$/template/History.html" />
         <option value="$PROJECT_DIR$/Viewer/History.html" />
-        <option value="$PROJECT_DIR$/template/Admin/Admin_Home.html" />
-        <option value="$PROJECT_DIR$/template/Admin/Admin_Contact.html" />
-        <option value="$PROJECT_DIR$/template/Admin/Admin_Chart.html" />
         <option value="$PROJECT_DIR$/template/Viewer/Goals.html" />
-        <option value="$PROJECT_DIR$/template/Admin/Admin_Goals.html" />
         <option value="$PROJECT_DIR$/template/Admin/Admin_History.py" />
-        <option value="$PROJECT_DIR$/template/Admin/Admin_History.html" />
+        <option value="$PROJECT_DIR$/template/Admin/Admin_Chart.html" />
+        <option value="$PROJECT_DIR$/template/Admin/Admin_Contact.html" />
         <option value="$PROJECT_DIR$/template/Admin/Admin_delete.html" />
         <option value="$PROJECT_DIR$/template/Admin/Admin_edit.html" />
+        <option value="$PROJECT_DIR$/template/Admin/Admin_Goals.html" />
+        <option value="$PROJECT_DIR$/template/Admin/Admin_History.html" />
+        <option value="$PROJECT_DIR$/template/Admin/Admin_Home.html" />
         <option value="$PROJECT_DIR$/template/Admin/Admin_Madadju_Report.html" />
         <option value="$PROJECT_DIR$/template/Admin/Foundation_Kefalat.html" />
         <option value="$PROJECT_DIR$/template/Admin/Foundation_Pardakht.html" />
@@ -187,12 +298,6 @@
               <item name="ChidF" type="462c0819:PsiDirectoryNode" />
               <item name="template" type="462c0819:PsiDirectoryNode" />
               <item name="Admin" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ChidF" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ChidF" type="462c0819:PsiDirectoryNode" />
-              <item name="template" type="462c0819:PsiDirectoryNode" />
-              <item name="Viewer" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -398,8 +503,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23505655" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23505655" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -605,17 +711,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/template/Hamyar/letters.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3094">
-          <caret line="182" column="7" lean-forward="false" selection-start-line="182" selection-start-column="7" selection-end-line="182" selection-end-column="7" />
-          <folding>
-            <element signature="n#style#0;n#span#0;n#td#0;n#tr#0;n#thead#0;n#table#0;n#center#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#td#1;n#tr#0;n#thead#0;n#table#0;n#center#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/template/Hamyar/madadjoo-list.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2142">
@@ -765,64 +860,11 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/template/Admin/Admin_Home.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="4" lean-forward="false" selection-start-line="17" selection-start-column="4" selection-end-line="85" selection-end-column="10" />
-          <folding>
-            <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#button#0;n#div#0;n#div#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#1;n#button#0;n#div#0;n#div#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#2;n#button#0;n#div#0;n#div#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#li#0;n#ul#0;n#div#1;n#div#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#li#0;n#ul#0;n#span#0;n#div#1;n#div#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#li#1;n#ul#0;n#span#0;n#div#1;n#div#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#ul#0;n#li#1;n#ul#0;n#span#0;n#div#1;n#div#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#li#2;n#ul#0;n#span#0;n#div#1;n#div#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#li#3;n#ul#0;n#span#0;n#div#1;n#div#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#ul#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#script#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/template/Viewer/Chart.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
           <caret line="30" column="46" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="198" selection-end-column="7" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/template/Admin/Admin_Contact.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="4" lean-forward="false" selection-start-line="17" selection-start-column="4" selection-end-line="85" selection-end-column="10" />
-          <folding>
-            <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#a#0;n#li#0;n#ul#0;n#span#0;n#div#1;n#div#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#li#1;n#ul#0;n#span#0;n#div#1;n#div#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#ul#0;n#li#1;n#ul#0;n#span#0;n#div#1;n#div#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#li#2;n#ul#0;n#span#0;n#div#1;n#div#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#li#3;n#ul#0;n#span#0;n#div#1;n#div#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#ul#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#button#0;n#p#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="e#7344#7351#1" expanded="true" />
-            <element signature="n#style#0;n#label#0;n#div#4;n#form#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#button#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#script#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -850,44 +892,42 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/template/Admin/Admin_History.html">
+    <entry file="file://$PROJECT_DIR$/template/Admin/Admin_delete.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="72" column="0" lean-forward="true" selection-start-line="72" selection-start-column="0" selection-end-line="72" selection-end-column="0" />
-          <folding>
-            <element signature="n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#a#0;n#li#0;n#ul#0;n#span#0;n#div#1;n#div#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#li#1;n#ul#0;n#span#0;n#div#1;n#div#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#ul#0;n#li#1;n#ul#0;n#span#0;n#div#1;n#div#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#li#2;n#ul#0;n#span#0;n#div#1;n#div#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#li#3;n#ul#0;n#span#0;n#div#1;n#div#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#ul#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state relative-caret-position="526">
+          <caret line="83" column="85" lean-forward="false" selection-start-line="83" selection-start-column="85" selection-end-line="83" selection-end-column="85" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/template/Admin/Admin_Goals.html">
+    <entry file="file://$PROJECT_DIR$/template/Admin/Admin_Contact.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="4" lean-forward="true" selection-start-line="17" selection-start-column="4" selection-end-line="85" selection-end-column="10" />
+        <state relative-caret-position="450">
+          <caret line="84" column="85" lean-forward="false" selection-start-line="84" selection-start-column="85" selection-end-line="84" selection-end-column="85" />
           <folding>
+            <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#style#0;n#a#0;n#li#0;n#ul#0;n#span#0;n#div#1;n#div#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#a#0;n#li#1;n#ul#0;n#span#0;n#div#1;n#div#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#ul#0;n#li#1;n#ul#0;n#span#0;n#div#1;n#div#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#a#0;n#li#2;n#ul#0;n#span#0;n#div#1;n#div#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#li#3;n#ul#0;n#span#0;n#div#1;n#div#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#style#0;n#ul#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#button#0;n#p#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="e#7430#7437#1" expanded="true" />
+            <element signature="n#style#0;n#label#0;n#div#4;n#form#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#button#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#script#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/template/Admin/Admin_Chart.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="85" column="10" lean-forward="false" selection-start-line="17" selection-start-column="4" selection-end-line="85" selection-end-column="10" />
+        <state relative-caret-position="450">
+          <caret line="84" column="85" lean-forward="false" selection-start-line="84" selection-start-column="85" selection-end-line="84" selection-end-column="85" />
           <folding>
             <element signature="n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#style#0;n#a#0;n#li#0;n#ul#0;n#span#0;n#div#1;n#div#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -895,73 +935,144 @@
             <element signature="n#style#0;n#ul#0;n#li#1;n#ul#0;n#span#0;n#div#1;n#div#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#a#0;n#li#2;n#ul#0;n#span#0;n#div#1;n#div#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#li#3;n#ul#0;n#span#0;n#div#1;n#div#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#style#0;n#ul#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/template/Admin/Admin_delete.html">
+    <entry file="file://$PROJECT_DIR$/template/Admin/Admin_edit.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="28" lean-forward="true" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
-          <folding />
+        <state relative-caret-position="331">
+          <caret line="83" column="85" lean-forward="false" selection-start-line="83" selection-start-column="85" selection-end-line="83" selection-end-column="85" />
+          <folding>
+            <element signature="n#div#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/template/Admin/Admin_edit.html">
+    <entry file="file://$PROJECT_DIR$/template/Hamyar/letters.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="31" lean-forward="false" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
-          <folding />
+        <state relative-caret-position="457">
+          <caret line="88" column="85" lean-forward="true" selection-start-line="88" selection-start-column="12" selection-end-line="88" selection-end-column="85" />
+          <folding>
+            <element signature="n#style#0;n#span#0;n#td#0;n#tr#0;n#thead#0;n#table#0;n#center#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#td#1;n#tr#0;n#thead#0;n#table#0;n#center#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/Admin/Admin_Goals.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="413">
+          <caret line="84" column="85" lean-forward="false" selection-start-line="84" selection-start-column="85" selection-end-line="84" selection-end-column="85" />
+          <folding>
+            <element signature="n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#a#0;n#li#0;n#ul#0;n#span#0;n#div#1;n#div#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#li#1;n#ul#0;n#span#0;n#div#1;n#div#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#ul#0;n#li#1;n#ul#0;n#span#0;n#div#1;n#div#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#li#2;n#ul#0;n#span#0;n#div#1;n#div#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#li#3;n#ul#0;n#span#0;n#div#1;n#div#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#ul#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/Admin/Admin_History.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="84" column="85" lean-forward="false" selection-start-line="84" selection-start-column="85" selection-end-line="84" selection-end-column="85" />
+          <folding>
+            <element signature="n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#a#0;n#li#0;n#ul#0;n#span#0;n#div#1;n#div#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#li#1;n#ul#0;n#span#0;n#div#1;n#div#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#ul#0;n#li#1;n#ul#0;n#span#0;n#div#1;n#div#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#li#2;n#ul#0;n#span#0;n#div#1;n#div#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#li#3;n#ul#0;n#span#0;n#div#1;n#div#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#ul#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/Admin/Admin_Home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="84" column="85" lean-forward="false" selection-start-line="84" selection-start-column="85" selection-end-line="84" selection-end-column="85" />
+          <folding>
+            <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#button#0;n#div#0;n#div#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#1;n#button#0;n#div#0;n#div#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#2;n#button#0;n#div#0;n#div#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#li#0;n#ul#0;n#div#1;n#div#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#li#0;n#ul#0;n#span#0;n#div#1;n#div#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#li#1;n#ul#0;n#span#0;n#div#1;n#div#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#ul#0;n#li#1;n#ul#0;n#span#0;n#div#1;n#div#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#li#2;n#ul#0;n#span#0;n#div#1;n#div#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#li#3;n#ul#0;n#span#0;n#div#1;n#div#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#ul#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#script#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/template/Admin/Admin_Madadju_Report.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="93" column="77" lean-forward="false" selection-start-line="93" selection-start-column="77" selection-end-line="93" selection-end-column="77" />
-          <folding />
+        <state relative-caret-position="371">
+          <caret line="83" column="85" lean-forward="false" selection-start-line="83" selection-start-column="85" selection-end-line="83" selection-end-column="85" />
+          <folding>
+            <element signature="n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/template/Admin/Foundation_Report.html">
+    <entry file="file://$PROJECT_DIR$/template/Admin/Foundation_Kefalat.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="39" lean-forward="false" selection-start-line="3" selection-start-column="39" selection-end-line="3" selection-end-column="39" />
+        <state relative-caret-position="529">
+          <caret line="83" column="85" lean-forward="false" selection-start-line="83" selection-start-column="85" selection-end-line="83" selection-end-column="85" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/template/Admin/Foundation_Pardakht.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="65">
-          <caret line="93" column="76" lean-forward="false" selection-start-line="93" selection-start-column="76" selection-end-line="93" selection-end-column="76" />
+        <state relative-caret-position="546">
+          <caret line="83" column="85" lean-forward="false" selection-start-line="83" selection-start-column="85" selection-end-line="83" selection-end-column="85" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/template/Admin/Foundation_Kefalat.html">
+    <entry file="file://$PROJECT_DIR$/template/Admin/Foundation_Report.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="93" column="76" lean-forward="false" selection-start-line="93" selection-start-column="76" selection-end-line="93" selection-end-column="76" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/template/Admin/Madadkar_Register.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="92" column="53" lean-forward="false" selection-start-line="92" selection-start-column="48" selection-end-line="92" selection-end-column="53" />
-          <folding />
+        <state relative-caret-position="435">
+          <caret line="83" column="85" lean-forward="false" selection-start-line="83" selection-start-column="85" selection-end-line="83" selection-end-column="85" />
+          <folding>
+            <element signature="n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/template/Admin/Hamyar_Register.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="24" lean-forward="false" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
-          <folding />
+        <state relative-caret-position="333">
+          <caret line="83" column="85" lean-forward="false" selection-start-line="83" selection-start-column="85" selection-end-line="83" selection-end-column="85" />
+          <folding>
+            <element signature="n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/Admin/Madadkar_Register.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="317">
+          <caret line="83" column="85" lean-forward="false" selection-start-line="83" selection-start-column="85" selection-end-line="83" selection-end-column="85" />
+          <folding>
+            <element signature="n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
